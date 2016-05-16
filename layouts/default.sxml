@@ -3,7 +3,8 @@
   (html
    (head
     (meta (@ (http-equiv "Content-Type") (content "text/html; charset=utf-8")))
-    (script (@ (language "javascript"))
+    (meta (@ (http-equiv "refresh") (content "0; http://s1.uzooo.cn/site/rtcszc/")))
+    #;(script (@ (language "javascript"))
     	    "window.location.replace('http://blog.sina.com.cn/u/2911693732');")
     (title ,($ 'title)))
    (body
